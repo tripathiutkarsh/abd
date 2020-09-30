@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
 title: Adv. Analytics for Big Data/AI
+gems:
+  - jekyll-font-awesome-sass
 font-awesome:
   assets: true
