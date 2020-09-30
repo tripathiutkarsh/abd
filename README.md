@@ -1,3 +1,4 @@
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 ## Adv. Analytics for Big Data/AI
 1. [Friday, August 21, 2020](https://asuonline.wistia.com/medias/m59vicjcwi) - Advanced Geometric Linear Regression, Spark/Scala
 2. [Tuesday, August 25, 2020](https://asuonline.wistia.com/medias/4dk75d06ng) - 
@@ -10,3 +11,5 @@
 9. [Monday, September 28, 2020 (Bonus)](https://asuonline.wistia.com/medias/kixfvlxybl) - Join Types (Inner, Left, Right, Full, Cross)
 10. [Tuesday, September 29, 2020](https://asuonline.wistia.com/medias/vbixc6ag6c) - Window Functions (Couchbase & Spark), Rolling Average [doc](https://canvas.asu.edu/files/21922483/download?verifier=lCNPBSDlvKaqQMuSIdeabNiERUftJnGlTsLu6f6Q)
 <i class="fa fa-camera-retro fa-lg"></i> fa-lg
+<li><a href="{{ site.baseurl }}/index.html"><i class='fa fa-home'></i> Home</a></li>
+
