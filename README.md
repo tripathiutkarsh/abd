@@ -7,3 +7,5 @@
 6. [Tuesday, September 15, 2020](https://asuonline.wistia.com/medias/242bjinick) - Geometric LR, discussion on Quiz1
 7. [Thursday, September 17,2020](https://asuonline.wistia.com/medias/8sa5xo9kin) - Mathematica & Multivariable Statistical Triangle (Quiz 1 discussion)
 8. [Tuesday, September 22, 2020](https://asuonline.wistia.com/medias/echvyfvjru) - Apache Parquet, Datatypes, Aggregations
+9. [Monday, September 28, 2020 (Bonus)](https://asuonline.wistia.com/medias/kixfvlxybl) - Join Types { Inner, Left, Right, Full, Cross}
+10.[Tuesday, September 29, 2020]() - Window Functions
