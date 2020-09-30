@@ -9,3 +9,4 @@
 8. [Tuesday, September 22, 2020](https://asuonline.wistia.com/medias/echvyfvjru) - Apache Parquet, Datatypes, Aggregations
 9. [Monday, September 28, 2020 (Bonus)](https://asuonline.wistia.com/medias/kixfvlxybl) - Join Types (Inner, Left, Right, Full, Cross)
 10. [Tuesday, September 29, 2020](https://asuonline.wistia.com/medias/vbixc6ag6c) - Window Functions (Couchbase & Spark), Rolling Average [doc](https://canvas.asu.edu/files/21922483/download?verifier=lCNPBSDlvKaqQMuSIdeabNiERUftJnGlTsLu6f6Q)
+<i class="fa fa-camera-retro fa-lg"></i> fa-lg
