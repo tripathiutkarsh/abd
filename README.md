@@ -11,3 +11,4 @@
 9. [Monday, September 28, 2020 (Bonus)](https://asuonline.wistia.com/medias/kixfvlxybl) - Join Types (Inner, Left, Right, Full, Cross)
 10. [Tuesday, September 29, 2020](https://asuonline.wistia.com/medias/vbixc6ag6c) [&#11015;&#65039;](https://canvas.asu.edu/files/21922483/download?verifier=lCNPBSDlvKaqQMuSIdeabNiERUftJnGlTsLu6f6Q) - Window Functions (Couchbase & Spark), Rolling Average 
 11. [Tuesday, October 6, 2020](https://asuonline.wistia.com/medias/r64sa1ykkw) - 
+12. [Thursday, October 22, 2020](https://asuonline.wistia.com/medias/3ky6u2gwn8)
